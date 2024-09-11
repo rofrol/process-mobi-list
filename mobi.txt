@@ -1,0 +1,83 @@
+./Barbara Oakley/Glowa do liczb (940)/Glowa do liczb - Barbara Oakley.mobi
+./Ryan North/How to Invent Everything (1137)/How to Invent Everything - Ryan North.mobi
+./Neal Ford/The Productive Programmer (818)/The Productive Programmer - Neal Ford.mobi
+./David D. Burns/Radosc zycia czyli jak zwyciezyc depresje (994)/Radosc zycia czyli jak zwyciezyc depresje - David D. Burns.mobi
+./Daniel Zingaro/Algorithmic Thinking (151)/Algorithmic Thinking - Daniel Zingaro.mobi
+./Leo Babauta/Zen To Done. Proste sposoby na zwiekszenie efektywnosci_ (757)/Zen To Done. Proste sposoby na zwiekszenie - Leo Babauta.mobi
+./Krzysztof Krol/Ksiega zwiazkow, podrywu i seksu dla kobiet (858)/Ksiega zwiazkow, podrywu i seksu dla kobie - Krzysztof Krol.mobi
+./Michael Kerrisk/The Linux programming interface a Li (76)/The Linux programming interface - Michael Kerrisk.mobi
+./Paul Orland/Math for Programmers_ 3D graphics, (279)/Math for Programmers_ 3D graphi - Paul Orland.mobi
+./Marijn Haverbeke/Eloquent JavaScript (46)/Eloquent JavaScript - Marijn Haverbeke.mobi
+./Radoslaw Kulesza/Mlodzi giganci programowania. Scratch (730)/Mlodzi giganci programowania. Scratch - Radoslaw Kulesza.mobi
+./Joe Haldeman/Wieczna Wolnosc (669)/Wieczna Wolnosc - Joe Haldeman.mobi
+./Sean Ellis/Hacking Growth_ How Today's Fastest-Growing Companies Drive Breakout Success (723)/Hacking Growth_ How Today's Fastest-Growin - Sean Ellis.mobi
+./Steve McConnell/Code Complete (252)/Code Complete - Steve McConnell.mobi
+./David Choi/Full-Stack React, TypeScript & Node Build cloud-ready web applications using React 17 & Hooks & (1009)/Full-Stack React, TypeScript & Node Build - David Choi.mobi
+./Slawomir Mrozek/Krotkie, ale cale historie. Opowiadania wybrane (1270)/Krotkie, ale cale historie. Opowiadania wy - Slawomir Mrozek.mobi
+./Mike Clayton/Zarzadzanie czasem (782)/Zarzadzanie czasem - Mike Clayton.mobi
+./Sebastian E. Peyrott/The JWT Handbook (724)/The JWT Handbook - Sebastian E. Peyrott.mobi
+./Jim Blandy/Programowanie w jezyku Rust. Wydajn (295)/Programowanie w jezyku Rust. Wy - Jim Blandy.mobi
+./Artur Krol/Jak zbudowac szczesliwy zwiazek_ (854)/Jak zbudowac szczesliwy zwiazek_ - Artur Krol.mobi
+./Dale Carnegie/Jak zdobyc przyjaciol i zjednac sobie ludzi (899)/Jak zdobyc przyjaciol i zjednac sobie ludz - Dale Carnegie.mobi
+./Frederick P. Brooks Jr_/Legendarny osobomiesiac. Opowiesci (318)/Legendarny osobomiesiac. Opowie - Frederick P. Brooks Jr_.mobi
+./Frederick P. Brooks Jr_/The Mythical Man Month (284)/The Mythical Man Month - Frederick P. Brooks Jr_.mobi
+./Craig Richardson/Nauka programowania z Minecraftem (296)/Nauka programowania z Minecraft - Craig Richardson.mobi
+./Napoleon Hill/Mysl i bogac sie. Wersja oryginalna, odswiezona i zaktualizowana (762)/Mysl i bogac sie. Wersja oryginalna, odswi - Napoleon Hill.mobi
+./Fumio Sasaki/Pozegnanie z nadmiarem_ minimalizm japonski (884)/Pozegnanie z nadmiarem_ minimalizm japonsk - Fumio Sasaki.mobi
+./Rob Crowther/HTML5 in Action (236)/HTML5 in Action - Rob Crowther.mobi
+./Aleksander Makowski/Tropiac Bin Ladena (419)/Tropiac Bin Ladena - Aleksander Makowski.mobi
+./Rodrigo Silveira/Multiplayer Game Development with H (245)/Multiplayer Game Development wi - Rodrigo Silveira.mobi
+./Michael Greger/The How Not to Diet Cookbook (2)/The How Not to Diet Cookbook - Michael Greger.mobi
+./Michael Greger/How Not to Diet (3)/How Not to Diet - Michael Greger.mobi
+./Barbara Oakley PhD/Learn Like a Pro (1132)/Learn Like a Pro - Barbara Oakley PhD.mobi
+./Melissa Ford/Hello Scratch! Napisz swoja pierwsza gre i ucz sie programowania (732)/Hello Scratch! Napisz swoja pierwsza gre i - Melissa Ford.mobi
+./Matthew MacDonald/HTML5 the missing manual (235)/HTML5 the missing manual - Matthew MacDonald.mobi
+./Tony Parisi/Programming 3D Applications with HT (231)/Programming 3D Applications wit - Tony Parisi.mobi
+./Lewis Dartnell/The Knowledge_ How to Rebuild Our W (339)/The Knowledge_ How to Rebuild O - Lewis Dartnell.mobi
+./lvh/Crypto 101 (347)/Crypto 101 - lvh.mobi
+./Justin Domingus/Cloud Native DevOps with Kubernetes (896)/Cloud Native DevOps with Kubernetes - Justin Domingus.mobi
+./Will Larson/An Elegant Puzzle_ Systems of Engin (184)/An Elegant Puzzle_ Systems of E - Will Larson.mobi
+./Dave Ramse/Dzieci madre finansowo (904)/Dzieci madre finansowo - Dave Ramse.mobi
+./Amit Phaltankar/MongoDB Fundamentals. A hands-on guide to using MongoDB & Atlas in the real world (773)/MongoDB Fundamentals. A hands-on guide to - Amit Phaltankar.mobi
+./Steve Fulton/HTML5 Canvas (247)/HTML5 Canvas - Steve Fulton.mobi
+./Michal Sajdak/Bezpieczenstwo aplikacji webowych (186)/Bezpieczenstwo aplikacji webowy - Michal Sajdak.mobi
+./Thomas H. Cormen/Algorytmy bez tajemnic (407)/Algorytmy bez tajemnic - Thomas H. Cormen.mobi
+./Silvanus P. Thompson/Calculus Made Easy Being A Very-Simplest Introduction to Those Beautiful Methods of Reckoning w (988)/Calculus Made Easy Being A Very-Simplest I - Silvanus P. Thompson.mobi
+./George T. Heineman/Algorithms in a Nutshell (256)/Algorithms in a Nutshell - George T. Heineman.mobi
+./Ian Stewart/17 rownan, ktore zmienily swiat (1071)/17 rownan, ktore zmienily swiat - Ian Stewart.mobi
+./Ilya Grigorik/High-Performance Browser Networking (705)/High-Performance Browser Networ - Ilya Grigorik.mobi
+./Peter Seibel/Coders at Work (332)/Coders at Work - Peter Seibel.mobi
+./Elaine Mazlish/Jak mowic, zeby dzieci nas sluchaly. Jak sluchac, zeby dzieci do nas mowily (754)/Jak mowic, zeby dzieci nas sluchaly. Jak s - Elaine Mazlish.mobi
+./Niels Ferguson/Cryptography Engineering_ Design Pr (411)/Cryptography Engineering_ Design Principle - Niels Ferguson.mobi
+./Varun Chopra/WebSocket Essentials - Building App (241)/WebSocket Essentials - Building - Varun Chopra.mobi
+./Randal E. Bryant/Computer Systems_ A Programmer's Per (7)/Computer Systems_ A Programmer' - Randal E. Bryant.mobi
+./Matthias Felleisen/How to design programs - an introdu (261)/How to design programs - an int - Matthias Felleisen.mobi
+./Karl Bunyan/Build an HTML5 Game_ A Developer's (239)/Build an HTML5 Game_ A Develope - Karl Bunyan.mobi
+./Zeno Rocha/14 Habits of Highly Productive Developers (820)/14 Habits of Highly Productive Developers - Zeno Rocha.mobi
+./Anton Moiseev/Angular Development with Typescript (125)/Angular Development with Typescript - Anton Moiseev.mobi
+./Abigail R. Gehring/Back to Basics (946)/Back to Basics - Abigail R. Gehring.mobi
+./Don Cowan/HTML5 Canvas For Dummies (246)/HTML5 Canvas For Dummies - Don Cowan.mobi
+./Greg McKeown/Esencjalista (1123)/Esencjalista - Greg McKeown.mobi
+./Greg McKeown/To proste (881)/To proste - Greg McKeown.mobi
+./Umberto Eco/Zapiski na pudelku od zapalek (412)/Zapiski na pudelku od zapalek - Umberto Eco.mobi
+./Umberto Eco/Konkursy na kierownika katedry (680)/Konkursy na kierownika katedry - Umberto Eco.mobi
+./Umberto Eco/Wymyslanie wrogow (415)/Wymyslanie wrogow - Umberto Eco.mobi
+./Umberto Eco/Drugie zapiski na pudelku od zapale (681)/Drugie zapiski na pudelku od za - Umberto Eco.mobi
+./Umberto Eco/Dariusz najmniejszy (683)/Dariusz najmniejszy - Umberto Eco.mobi
+./Umberto Eco/Dzielo otwarte (682)/Dzielo otwarte - Umberto Eco.mobi
+./Umberto Eco/Wahadlo Foucaulta (414)/Wahadlo Foucaulta - Umberto Eco.mobi
+./Ian Wienand/Computer Science from the Bottom Up (4)/Computer Science from the Botto - Ian Wienand.mobi
+./Tony Schwartz/Taka praca nie ma sensu (944)/Taka praca nie ma sensu - Tony Schwartz.mobi
+./Jocelyn K. Glei/Zarzadzanie codziennoscia. Zaplanuj (325)/Zarzadzanie codziennoscia. Zapl - Jocelyn K. Glei.mobi
+./Kelly McGonigal/The Willpower Instinct (1104)/The Willpower Instinct - Kelly McGonigal.mobi
+./Kelly McGonigal/The Upside of Stress_ Why Stress Is Good for You, and How to Get Good at It (1113)/The Upside of Stress_ Why Stress Is Good f - Kelly McGonigal.mobi
+./Andrew Lombardi/WebSocket. Lightweight client-serve (702)/WebSocket. Lightweight client-s - Andrew Lombardi.mobi
+./Bogdan Goralczyk/Nowy Dlugi Marsz. Chiny ery Xi Jinpinga (887)/Nowy Dlugi Marsz. Chiny ery Xi Jinpinga - Bogdan Goralczyk.mobi
+./Manuel Horeth/I Ty jestes mentalista! Naucz sie odczytywac mysli, emocje i zachowania otaczajacych Cie osob (838)/I Ty jestes mentalista! Naucz sie odczytyw - Manuel Horeth.mobi
+./Damian Wielgosik/Moja pierwsza strona internetowa w (238)/Moja pierwsza strona internetow - Damian Wielgosik.mobi
+./George Polya/How to Solve It_ A New Aspect of Mathematical Method (870)/How to Solve It_ A New Aspect of Mathemati - George Polya.mobi
+./W. W. Sawyer/Prelude to Mathematics (1103)/Prelude to Mathematics - W. W. Sawyer.mobi
+./Bradley Smith/DevOps for the Desperate (801)/DevOps for the Desperate - Bradley Smith.mobi
+./Richard Courant/What Is Mathematics__ An Elementary Approach to Ideas and Methods (169)/What Is Mathematics__ An Elementary Approa - Richard Courant.mobi
+./Philip G. Zimbardo/The Demise of Guys_ Why Boys Are Struggling and What We Can Do About It (861)/The Demise of Guys_ Why Boys Are Strugglin - Philip G. Zimbardo.mobi
+./Tom Griffiths/Algorytmy. Kiedy mniej myslec (311)/Algorytmy. Kiedy mniej myslec - Tom Griffiths.mobi
