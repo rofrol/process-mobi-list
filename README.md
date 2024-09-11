@@ -2,7 +2,7 @@
 
 ## Purpose
 
-There is a list of books created with `find ~/Calibre Library -iname '*.mobi' > mobi.txt`.
+There is a list of books created with `find ~/Calibre\ Library -iname '*.mobi' > mobi.txt`.
 
 I need to check which books have corresponding epub file.
 
