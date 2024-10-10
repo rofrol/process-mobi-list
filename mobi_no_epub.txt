@@ -1,29 +1,6 @@
-./Ryan North/How to Invent Everything (1137)/How to Invent Everything - Ryan North.mobi
-./Leo Babauta/Zen To Done. Proste sposoby na zwiekszenie efektywnosci_ (757)/Zen To Done. Proste sposoby na zwiekszenie - Leo Babauta.mobi
-./Joe Haldeman/Wieczna Wolnosc (669)/Wieczna Wolnosc - Joe Haldeman.mobi
-./Steve McConnell/Code Complete (252)/Code Complete - Steve McConnell.mobi
-./Slawomir Mrozek/Krotkie, ale cale historie. Opowiadania wybrane (1270)/Krotkie, ale cale historie. Opowiadania wy - Slawomir Mrozek.mobi
-./Artur Krol/Jak zbudowac szczesliwy zwiazek_ (854)/Jak zbudowac szczesliwy zwiazek_ - Artur Krol.mobi
-./Dale Carnegie/Jak zdobyc przyjaciol i zjednac sobie ludzi (899)/Jak zdobyc przyjaciol i zjednac sobie ludz - Dale Carnegie.mobi
-./Napoleon Hill/Mysl i bogac sie. Wersja oryginalna, odswiezona i zaktualizowana (762)/Mysl i bogac sie. Wersja oryginalna, odswi - Napoleon Hill.mobi
-./Fumio Sasaki/Pozegnanie z nadmiarem_ minimalizm japonski (884)/Pozegnanie z nadmiarem_ minimalizm japonsk - Fumio Sasaki.mobi
-./Rob Crowther/HTML5 in Action (236)/HTML5 in Action - Rob Crowther.mobi
-./Aleksander Makowski/Tropiac Bin Ladena (419)/Tropiac Bin Ladena - Aleksander Makowski.mobi
-./Rodrigo Silveira/Multiplayer Game Development with H (245)/Multiplayer Game Development wi - Rodrigo Silveira.mobi
-./Matthew MacDonald/HTML5 the missing manual (235)/HTML5 the missing manual - Matthew MacDonald.mobi
-./Tony Parisi/Programming 3D Applications with HT (231)/Programming 3D Applications wit - Tony Parisi.mobi
 ./Steve Fulton/HTML5 Canvas (247)/HTML5 Canvas - Steve Fulton.mobi
 ./George T. Heineman/Algorithms in a Nutshell (256)/Algorithms in a Nutshell - George T. Heineman.mobi
 ./Elaine Mazlish/Jak mowic, zeby dzieci nas sluchaly. Jak sluchac, zeby dzieci do nas mowily (754)/Jak mowic, zeby dzieci nas sluchaly. Jak s - Elaine Mazlish.mobi
 ./Matthias Felleisen/How to design programs - an introdu (261)/How to design programs - an int - Matthias Felleisen.mobi
 ./Don Cowan/HTML5 Canvas For Dummies (246)/HTML5 Canvas For Dummies - Don Cowan.mobi
-./Greg McKeown/To proste (881)/To proste - Greg McKeown.mobi
-./Umberto Eco/Zapiski na pudelku od zapalek (412)/Zapiski na pudelku od zapalek - Umberto Eco.mobi
-./Umberto Eco/Konkursy na kierownika katedry (680)/Konkursy na kierownika katedry - Umberto Eco.mobi
-./Umberto Eco/Wymyslanie wrogow (415)/Wymyslanie wrogow - Umberto Eco.mobi
-./Umberto Eco/Drugie zapiski na pudelku od zapale (681)/Drugie zapiski na pudelku od za - Umberto Eco.mobi
-./Umberto Eco/Dariusz najmniejszy (683)/Dariusz najmniejszy - Umberto Eco.mobi
-./Umberto Eco/Dzielo otwarte (682)/Dzielo otwarte - Umberto Eco.mobi
-./Umberto Eco/Wahadlo Foucaulta (414)/Wahadlo Foucaulta - Umberto Eco.mobi
-./Tony Schwartz/Taka praca nie ma sensu (944)/Taka praca nie ma sensu - Tony Schwartz.mobi
 ./Damian Wielgosik/Moja pierwsza strona internetowa w (238)/Moja pierwsza strona internetow - Damian Wielgosik.mobi
